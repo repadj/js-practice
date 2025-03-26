@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/js-practice/tic-tac-two-vue/dist',
+  base: '/js-practice/tic-tac-two-vue/',
   plugins: [
     vue(),
     vueDevTools(),
